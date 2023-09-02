@@ -1,0 +1,6 @@
+framework module Pods_FlutterIntegSample {
+  umbrella header "Pods-FlutterIntegSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
